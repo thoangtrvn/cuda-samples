@@ -2,3 +2,4 @@
 bin/x86_64/linux/release/libcuhook.so.1
 bin/*
 Samples/*
+*.swp
